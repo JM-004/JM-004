@@ -1,93 +1,59 @@
-<div align="center">
-
 # Hi, I'm Jyotirmaya Mallick 👋
-
-</div>
-
----
 
 ## 🚀 About Me
 
 - 🎓 Final-year B.Tech student in Electrical & Electronics at NITK Surathkal
 - 💳 Former **Software Engineering Intern @ Visa**
-- 💻Passionate Software Developer exploring Software Development, AI/ML
+- 💻 Passionate Software Developer exploring Software Development, AI/ML
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-### DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,react,nextjs,tailwind,html,css,postgres,mysql,mongodb,pytorch,tensorflow,docker,git,githubactions,linux" />
 </p>
 
 ---
 
-# Featured Projects
+## ♟ Featured Projects
 
-## ♟ Chess Engine
+### Chess Engine
 
 A modern chess engine written from scratch featuring move generation,
 search optimizations and board evaluation.
 
----
+### 🤖 AI Chatbot
 
-## 🤖 AI Chatbot
+**LangGraph + RAG + Tool Calling + Streamlit**
 
-LangGraph + RAG + Tool Calling + Streamlit
-
-An intelligent multi-tool assistant capable of retrieval, reasoning
+An intelligent multi-tool assistant capable of retrieval, reasoning,
 and workflow automation.
 
----
-
-## 😊 Emotion Detection
+### 😊 Emotion Detection
 
 CNN + LSTM based emotion recognition system.
 
 ---
 
----
+## 📊 GitHub Stats
 
-# GitHub Stats
+<div align="center">
 
-<p align="center">
+<a href="https://github.com/JM-2004">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JM-2004&theme=2077" alt="GitHub Stats" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JM-2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=JM-2004&theme=radical" alt="GitHub Streak" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JM-2004&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
 
-</p>
+<a href="https://github.com/JM-2004">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JM-2004&theme=2077" alt="Profile Details" />
+</a>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=JM-2004&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
