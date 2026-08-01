@@ -10,29 +10,11 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,react,nextjs,tailwind,html,css,postgres,mysql,mongodb,pytorch,tensorflow,docker,git,githubactions,linux" />
-</p>
-
----
-
-## ♟ Featured Projects
-
-### Chess Engine
-
-A modern chess engine written from scratch featuring move generation,
-search optimizations and board evaluation.
-
-### 🤖 AI Chatbot
-
-**LangGraph + RAG + Tool Calling + Streamlit**
-
-An intelligent multi-tool assistant capable of retrieval, reasoning,
-and workflow automation.
-
-### 😊 Emotion Detection
-
-CNN + LSTM based emotion recognition system.
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
